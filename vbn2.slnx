@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="vbn2/vbn2.vcxproj" Id="cc465fe4-dcbb-4608-a4b7-92411af2ff8d" />
+</Solution>
